@@ -31,7 +31,7 @@ Welcome to **MiniChat Client**, the web interface for the [MiniChat Service](htt
 
 ### 2. Environment Setup
 
-Clone the repository and set up a virtual environment:
+Clone the repository and execute services:
 
 ```bash
 git clone https://github.com/jluisvacan/minichat-client.git
